@@ -1,6 +1,7 @@
 #This program is a Project Milestone Tracker designed for academic squads to manage specific task allocations and calculate real-time project readiness based on completion status and estimated effort.
 
 ##What the Program Does
+
 #Validates Identity: 
 It requires a specific Project Title ("System Management") and Group Name ("Squad Goal") before proceeding, acting as a simple access control.
 
