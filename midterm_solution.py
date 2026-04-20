@@ -4,7 +4,6 @@ while True:
         break 
     print("Invalid Project Title. Please try again.")
 
-# Validation for Group Name
 while True:
     group_name = input("Enter the group name: ")
     if group_name.lower() == 'squad goal':
