@@ -1,4 +1,4 @@
-#This program is a Project Milestone Tracker designed for academic squads to manage specific task allocations and calculate real-time project readiness based on completion status and estimated effort.
+#This program is for academic squads to manage specific task allocations and calculate real-time project readiness based on completion status and estimated effort.
 
 ##What the Program Does
 
